@@ -1,7 +1,7 @@
 title: the psyquantic corner
-logo: /assets/img/logo.png
-description: >
-  unstructed collection of thoughts and ideas
+# logo: /assets/img/yy.png
+# description: >
+#   unstructured collection of thoughts and ideas
 show_downloads: false
 
 remote_theme: pages-themes/minimal@v0.2.0
