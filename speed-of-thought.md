@@ -40,7 +40,7 @@ how do _you_ cope with too many ideas for too few results?
 - determination — prioritize goals, rank on impact, say no often
 - extensibility — can you jump back in? add and not restart?
 - intemporality — you will not go back to something stale
-- alignement — two birds with one stone rather than spreading thin
+- alignment — two birds with one stone rather than spreading thin
 - commitment — switch only on big pain (absolute & relative to alts)
 - reflection — keep the important on the surface
 - terseness — most ideas do not need their book (written or read)
