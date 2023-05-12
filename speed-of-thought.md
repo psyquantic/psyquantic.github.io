@@ -54,4 +54,4 @@ how do _you_ cope with too many ideas for too few results?
 - review — reflect, compile, ajust
 - reuse — pay starting from scratch with an upfront migration
 - reduce — trim, trim, trim
-- shape — summarize each project's rules, philosophy, mission and scope
+- shape — compile each project's concepts, rules, mission and scope
