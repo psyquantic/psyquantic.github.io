@@ -25,20 +25,15 @@ actually there is another choice
 
 to do things quicker, you can either satisfy yourself with worse, satisfy yourself with less, or deliberately optimize for speed
 
-## pause and think
-
-how do _you_ cope with too many ideas for too few results?
-
 ## achieving speed of thought
 
-### concepts
+### concepts that help
 
-- anonymity — share on interests, not egos
-- spontaneity — can you achieve a leap right after you figured how?
+- persona — share on interests, not egos
 - breadth — structured multitasking 
 - clarity — know where you are going
 - determination — prioritize goals, rank on impact, say no often
-- extensibility — can you jump back in? add and not restart?
+- extensibility — starting over is a time sink
 - timelessness — you will not go back to something stale
 - alignment — two birds with one stone rather than spreading thin
 - commitment — switch only on big pain (absolute & relative to alts)
@@ -52,6 +47,10 @@ how do _you_ cope with too many ideas for too few results?
 
 - pick your tools — [try and cull](try-liberally-keep-conservatively.md); durable; reusable; [composable](http://widgetsandshit.com/teddziuba/2010/10/taco-bell-programming.html)
 - review — reflect, compile, adjust
-- reuse — pay starting from scratch with an upfront migration
+- reuse — pay for starting over with an upfront migration
 - reduce — trim, trim, trim
 - shape — compile each project's concepts, rules, mission and scope
+
+### state to strive for
+
+- _spontaneity_ — can you act immediately on an idea?
