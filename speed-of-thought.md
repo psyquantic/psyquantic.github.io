@@ -51,7 +51,7 @@ how do _you_ cope with too many ideas for too few results?
 ### in practice
 
 - pick your tools — [try and cull](try-liberally-keep-conservatively.md); durable; reusable; [composable](http://widgetsandshit.com/teddziuba/2010/10/taco-bell-programming.html)
-- review — reflect, compile, ajust
+- review — reflect, compile, adjust
 - reuse — pay starting from scratch with an upfront migration
 - reduce — trim, trim, trim
 - shape — compile each project's concepts, rules, mission and scope
