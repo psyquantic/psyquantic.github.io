@@ -1,6 +1,7 @@
-title: hi.psyq.dev
+title: the psyquantic corner
 logo: /assets/img/logo.png
-description: Psyquantic's corner.
+description: >
+  unstructed collection of thoughts and ideas
 show_downloads: false
 
 remote_theme: pages-themes/minimal@v0.2.0

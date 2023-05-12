@@ -1,6 +1,4 @@
-# the psyquantic corner
-
-[👋](https://hi.psyq.dev/)
+# hi 👋
 
 ## some entries
 
