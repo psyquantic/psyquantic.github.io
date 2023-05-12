@@ -1,5 +1,8 @@
 {
     "files.insertFinalNewline": true,
     "files.trimFinalNewlines": true,
-    "files.trimTrailingWhitespace": false
+    "files.trimTrailingWhitespace": false,
+    "cSpell.words": [
+        "psyq", "adhd", "psyquant", "psyquantic"
+    ]
 }
