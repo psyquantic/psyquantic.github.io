@@ -44,11 +44,14 @@ how do _you_ cope with too many ideas for too few results?
 - commitment — switch only on big pain (absolute & relative to alts)
 - reflection — keep the important on the surface
 - terseness — most ideas do not need their book (written or read)
-- minimalism — silence beats noise
-- simplicity — lower the denominator or impact-over-effort
+- environment — minimalism and cues to get into the zone
+- simplicity — lower the denominator of impact-over-effort
+- ease — relax and stay above the line
 
 ### in practice
 
 - pick your tools — [try and cull](try-liberally-keep-conservatively.md); durable; reusable; [composable](http://widgetsandshit.com/teddziuba/2010/10/taco-bell-programming.html)
 - review — reflect, compile, ajust
-- reuse — and pay starts from scratch with migrations
+- reuse — pay starting from scratch with an upfront migration
+- reduce — trim, trim, trim
+- shape — summarize each project's rules, philosophy, mission and scope
